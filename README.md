@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**Team-on/Team-on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### hello world!
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +9,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Team-on&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Team-on&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🤝🏻 Connect with Me
+<p align="center">
+<a href="https://team-on.github.io//"><img alt="Website" src="https://img.shields.io/badge/Website-team--on.github.io-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/timofeii-solonchuk-29030a167/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Timofeii%20Solonchuk-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/team_on0"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-team__on0-blue?style=flat-square&logo=twitter"></a>
+<a href="mailto:timonsol13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-timonsol13@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
