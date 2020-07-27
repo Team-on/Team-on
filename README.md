@@ -1,5 +1,5 @@
 ### hello world!
-I'm game developer, who works on regular unity developer job during day, work on my own projects during night and sometimes jam on weekends. Mainly use Unity for my games, but sometimes try other engines during gamejams.
+I'm game developer, who works on regular unity developer job during day, on my own projects during night and sometimes jam on weekends. Mainly use Unity for my games, but sometimes try other engines during gamejams.
 
 - 🔨 I'm working on [My game template](https://github.com/Team-on/UnityGameTemplate) and few unannounced games
 - 🌱 I'm currently learning how to make indie games without burnouts
