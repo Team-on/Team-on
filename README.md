@@ -1,8 +1,8 @@
-### hello world!
+### hello world!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Team-on.Team-on)
 I'm game developer, who works on regular unity developer job during day, on my own projects during night and sometimes jam on weekends. Mainly use Unity for my games, but sometimes try other engines during gamejams.
 
 - 🔨 I'm working on [My game template](https://github.com/Team-on/UnityGameTemplate) and few unannounced games
-- 🌱 I'm currently learning how to make indie games without burnouts
+- 👯 I'm looking for indies to make games together
 - 💬 Talk to me about game dev, tools, unity, gamejams andd other games related things
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Team-on&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
