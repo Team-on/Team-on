@@ -26,5 +26,5 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 <a href="mailto:timonsol13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-timonsol13@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://t.me/Team0on"><img alt="Telegram" src="https://img.shields.io/badge/telegram-Team0on-blue?style=flat-square&logo=telegram"></a>
 <a href="https://steamcommunity.com/id/team_on_"><img alt="Steam" src="https://img.shields.io/badge/Steam-Team--on-blue?style=flat-square&logo=steam"></a>
-<a href="https://teamon.itch.io/"><img alt="Steam" src="https://img.shields.io/badge/Itch-Team--on-blue?style=flat-square&logo=itch"></a>
+<a href="https://teamon.itch.io/"><img alt="Itch" src="https://img.shields.io/badge/Itch-Team--on-blue?style=flat-square&logo=itch.io"></a>
 </p
