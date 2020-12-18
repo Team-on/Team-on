@@ -6,6 +6,8 @@
   </a>
 </p>
 
+![Header](Header/Header.jpg)
+
 Hello! I'm Tim, a game developer who work with Unity since 2018 and have little windows and web developer experience before. I'm working on a regular developer job during day, on my own projects during night and jam on weekends from time to time. I consider myself as a gameplay programmer, but actually I can work on any part of the game, even art and music.
 
 In general, I'm into technology, games(both digital and tabletop) and music.
@@ -18,6 +20,8 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 - 👯 I'm looking for indies to make games together
 - 💬 Talk to me about game dev, tools, unity, gamejams and other games related things
 - 🍯 Feel free to jam with me. I usually use Unity for my games, but eager to try other engines or roles for gamejams
+
+--------------
 
 <p align="center">
 <a href="https://team-on.github.io//"><img alt="Website" src="https://img.shields.io/badge/Website-team--on.github.io-blue?style=flat-square&logo=google-chrome"></a>
