@@ -1,12 +1,13 @@
 ### hello world!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Team-on.Team-on)
+
+![Header](Header/Header.jpg)
+
 <p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="460" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=Team-on&count_private=true&show_icons=true" />
 <!---   <img width="460" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-on&layout=compact" /> --->
   </a>
 </p>
-
-![Header](Header/Header.jpg)
 
 Hello! I'm Tim, a game developer who work with Unity since 2018 and have little windows and web developer experience before. I'm working on a regular developer job during day, on my own projects during night and jam on weekends from time to time. I consider myself as a gameplay programmer, but actually I can work on any part of the game, even art and music.
 
