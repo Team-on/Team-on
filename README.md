@@ -25,11 +25,17 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 --------------
 
 <p align="center">
-<a href="https://team-on.github.io//"><img alt="Website" src="https://img.shields.io/badge/Website-team--on.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/timofeii-solonchuk-29030a167/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Timofeii%20Solonchuk-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/team_on0"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-team__on0-blue?style=flat-square&logo=twitter"></a>
+<a href="https://team-on.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-team--on.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:timonsol13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-timonsol13@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://t.me/Team0on"><img alt="Telegram" src="https://img.shields.io/badge/telegram-Team0on-blue?style=flat-square&logo=telegram"></a>
+<a href="https://www.linkedin.com/in/timofeii-solonchuk-29030a167/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Timofeii%20Solonchuk-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/team_on0"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-team__on0-blue?style=flat-square&logo=twitter"></a>
+<a href="https://dtf.ru/u/70674-team-on"><img alt="DTF" src="https://img.shields.io/badge/DTF-team__on0-blue?style=flat-square&logo=dtf"></a>
+<a href="https://www.facebook.com/teamonsol/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-team__on0-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.youtube.com/channel/UCIr2wSWnIb9JJ-MV66JqIJw/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-team__on0-blue?style=flat-square&logo=Youtube"></a>
 <a href="https://steamcommunity.com/id/team_on_"><img alt="Steam" src="https://img.shields.io/badge/Steam-Team--on-blue?style=flat-square&logo=steam"></a>
 <a href="https://teamon.itch.io/"><img alt="Itch" src="https://img.shields.io/badge/Itch-Team--on-blue?style=flat-square&logo=itch.io"></a>
-</p
+<a href="https://gamejolt.com/@Team-on"><img alt="GameJolt" src="https://img.shields.io/badge/Game Jolt-Team--on-blue?style=flat-square&logo=game-jolt"></a>
+<a href="https://play.google.com/store/apps/dev?id=8670524838690116021"><img alt="GooglePlay" src="https://img.shields.io/badge/Google Play-Team--on-blue?style=flat-square&logo=Google-Play"></a>
+<a href="https://assetstore.unity.com/publishers/50926?preview=1"><img alt="Asset store" src="https://img.shields.io/badge/Asset store-Team--on-blue?style=flat-square&logo=Unity"></a>
+</p>
