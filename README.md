@@ -4,7 +4,7 @@
 
 <p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="460" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=Team-on&count_private=true&show_icons=true" />
+    <img width="460" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api?username=Team-on&count_private=true&show_icons=true&include_all_commits=true&theme=dark" />
 <!---   <img width="460" align="right" alt="Volkan's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-on&layout=compact" /> --->
   </a>
 </p>
