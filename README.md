@@ -42,5 +42,5 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 
 --------------
 
-My own assets: Screen Shooter((Asset store)[https://assetstore.unity.com/packages/slug/188939] | (OpenUPM)[https://openupm.com/packages/com.teamon.screenshooter.html] | (GitHub)[https://github.com/Team-on/UnityScreenShooter]), Build Manager((Asset store)[https://assetstore.unity.com/packages/slug/188940] | (OpenUPM)[https://openupm.com/packages/com.teamon.buildmanager.html] | (GitHub)[https://github.com/Team-on/UnityBuildManager])
+My own assets: Screen Shooter([Asset store](https://assetstore.unity.com/packages/slug/188939) | [OpenUPM](https://openupm.com/packages/com.teamon.screenshooter.html) | [GitHub](https://github.com/Team-on/UnityScreenShooter)), Build Manager([Asset store](https://assetstore.unity.com/packages/slug/188940) | [OpenUPM](https://openupm.com/packages/com.teamon.buildmanager.html) | [GitHub](https://github.com/Team-on/UnityBuildManager))
 Assets that I supported:
