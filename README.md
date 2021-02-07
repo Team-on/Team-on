@@ -17,7 +17,7 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 
 --------------
 
-- 🔨 I'm working on [My game template](https://github.com/Team-on/UnityGameTemplate) and few unannounced games
+- 🔨 I'm working on [My game template](https://github.com/Team-on/UnityGameTemplate), Bronepoezd, Double Sided and one more unannounced games
 - 👯 I'm looking for indies to make games together
 - 💬 Talk to me about game dev, tools, unity, gamejams and other games related things
 - 🍯 Feel free to jam with me. I usually use Unity for my games, but eager to try other engines or roles for gamejams
@@ -42,7 +42,7 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 
 --------------
 
-My own assets: **Screen Shooter**([Asset store](https://assetstore.unity.com/packages/slug/188939) | [OpenUPM](https://openupm.com/packages/com.teamon.screenshooter.html) | [GitHub](https://github.com/Team-on/UnityScreenShooter)), **Build Manager**([Asset store](https://assetstore.unity.com/packages/slug/188940) | [OpenUPM](https://openupm.com/packages/com.teamon.buildmanager.html) | [GitHub](https://github.com/Team-on/UnityBuildManager)), **Unity Game Template**((GitHub)[https://github.com/Team-on/UnityGameTemplate])
+My own assets: **Screen Shooter**([Asset store](https://assetstore.unity.com/packages/slug/188939) | [OpenUPM](https://openupm.com/packages/com.teamon.screenshooter.html) | [GitHub](https://github.com/Team-on/UnityScreenShooter)), **Build Manager**([Asset store](https://assetstore.unity.com/packages/slug/188940) | [OpenUPM](https://openupm.com/packages/com.teamon.buildmanager.html) | [GitHub](https://github.com/Team-on/UnityBuildManager)), **Unity Game Template**([GitHub](https://github.com/Team-on/UnityGameTemplate))
 
 Assets that I supported: [CustomToolbar](https://github.com/Team-on/CustomToolbar), [Unity3D-save-audioClip-to-MP3](https://github.com/Team-on/Unity3D-save-audioClip-to-MP3), [ProjectWindowDetails](https://github.com/Team-on/ProjectWindowDetails), [Unity3D Rainbow Folders](https://github.com/Team-on/unity3d-rainbow-folders), [Editor Spotlight](https://github.com/Team-on/unity-editor-spotlight), [Selection History Window](https://github.com/Team-on/unity-history-window), [Node Based Dialogue System](https://github.com/Team-on/NodeBasedDialogueSystem), [Git Package Updater](https://github.com/Team-on/UnityGitPackageUpdater), [SteamVR Plugin](https://github.com/Team-on/steamvr_unity_plugin)
 
