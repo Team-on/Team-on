@@ -33,9 +33,9 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 <a href="https://gamejolt.com/@Team-on"><img alt="GameJolt" src="https://img.shields.io/badge/Game Jolt-Team--on-blue?style=flat-square&logo=game-jolt"></a>
 <a href="https://play.google.com/store/apps/dev?id=8670524838690116021"><img alt="GooglePlay" src="https://img.shields.io/badge/Google Play-Team--on-blue?style=flat-square&logo=Google-Play"></a>
 <a href="https://play.unity.com/u/team-on-m"><img alt="UnityPlay" src="https://img.shields.io/badge/Unity Play-Team--on-blue?style=flat-square&logo=Unity"></a>
-<a href="https://team-on.newgrounds.com/"><img alt="newgrounds" src="https://img.shields.io/badge/newgrounds-Team--on-blue?style=flat-square&logo=newgrounds"></a>
-<a href="https://simmer.io/@Team_on"><img alt="GooglePlay" src="https://img.shields.io/badge/simmer-Team--on-blue?style=flat-square&logo=simmer"></a>
-<a href="https://store.steampowered.com/curator/39400358-Team-on-games"><img alt="Steam" src="https://img.shields.io/badge/Steam-Team--on-Games-blue?style=flat-square&logo=steam"></a>
+<a href="https://team-on.newgrounds.com/"><img alt="newgrounds" src="https://img.shields.io/badge/Newgrounds-Team--on-blue?style=flat-square&logo=newgrounds"></a>
+<a href="https://simmer.io/@Team_on"><img alt="simmer" src="https://img.shields.io/badge/Simmer-Team--on-blue?style=flat-square&logo=simmer"></a>
+<a href="https://store.steampowered.com/curator/39400358-Team-on-games"><img alt="steam" src="https://img.shields.io/badge/Steam-Team--on-blue?style=flat-square&logo=steam"></a>
 <!--- ME AS DEV --->
 <a href="https://assetstore.unity.com/publishers/50926?preview=1"><img alt="Asset store" src="https://img.shields.io/badge/Asset store-Team--on-blue?style=flat-square&logo=Unity"></a>
 <!--- SOCIAL --->
