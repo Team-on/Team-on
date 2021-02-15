@@ -28,19 +28,16 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 <!--- GENERAL STUFF --->
 <a href="https://team-on.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-team--on.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:timonsol13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-timonsol13@gmail.com-blue?style=flat-square&logo=gmail"></a>
- 
- <!--- MY GAMES --->
+<!--- MY GAMES --->
 <a href="https://teamon.itch.io/"><img alt="Itch" src="https://img.shields.io/badge/Itch-Team--on-blue?style=flat-square&logo=itch.io"></a>
 <a href="https://gamejolt.com/@Team-on"><img alt="GameJolt" src="https://img.shields.io/badge/Game Jolt-Team--on-blue?style=flat-square&logo=game-jolt"></a>
 <a href="https://play.google.com/store/apps/dev?id=8670524838690116021"><img alt="GooglePlay" src="https://img.shields.io/badge/Google Play-Team--on-blue?style=flat-square&logo=Google-Play"></a>
 <a href="https://play.unity.com/u/team-on-m"><img alt="UnityPlay" src="https://img.shields.io/badge/Unity Play-Team--on-blue?style=flat-square&logo=Unity"></a>
 <a href="https://team-on.newgrounds.com/"><img alt="newgrounds" src="https://img.shields.io/badge/newgrounds-Team--on-blue?style=flat-square&logo=newgrounds"></a>
 <a href="https://simmer.io/@Team_on"><img alt="GooglePlay" src="https://img.shields.io/badge/simmer-Team--on-blue?style=flat-square&logo=simmer"></a>
-<a href="https://store.steampowered.com/curator/39400358-Team-on-games/"><img alt="Steam" src="https://img.shields.io/badge/Steam-Team--on-Games-blue?style=flat-square&logo=steam"></a>
-
+<a href="https://store.steampowered.com/curator/39400358-Team-on-games"><img alt="Steam" src="https://img.shields.io/badge/Steam-Team--on-Games-blue?style=flat-square&logo=steam"></a>
 <!--- ME AS DEV --->
 <a href="https://assetstore.unity.com/publishers/50926?preview=1"><img alt="Asset store" src="https://img.shields.io/badge/Asset store-Team--on-blue?style=flat-square&logo=Unity"></a>
-
 <!--- SOCIAL --->
 <a href="https://twitter.com/team_on0"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-team__on0-blue?style=flat-square&logo=twitter"></a>
 <a href="https://t.me/Team0on"><img alt="Telegram" src="https://img.shields.io/badge/telegram-Team0on-blue?style=flat-square&logo=telegram"></a>
