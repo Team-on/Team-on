@@ -1,6 +1,6 @@
 ### hello world!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Team-on.Team-on)
 
-![Header](Header/Header-Github and itchio copy.jpg)
+![Header](Header/Header-Github%20and%20itchio%20copy.jpg)
 
 <p align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
