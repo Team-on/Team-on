@@ -9,7 +9,7 @@
   </a>
 </p>
 
-Hello! I'm Tim, a game developer who work with Unity since 2018 and have little windows and web developer experience before. I'm working on a regular developer job during day, on my own projects during night and jam on weekends from time to time. I consider myself as a gameplay programmer, but actually I can work on any part of the game, even art and music.
+Hello! I'm Tim, a game developer who work with Unity since 2018 and had little windows and web developer experience before. I'm working on a regular developer job during day, on my own projects during night and jam on weekends from time to time. I consider myself as a gameplay programmer, but actually I can work on any part of the game, even art and music.
 
 In general, I'm into technology, games(both digital and tabletop) and music.
 
