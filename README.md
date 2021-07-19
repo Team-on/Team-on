@@ -17,7 +17,7 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 
 --------------
 
-- 🔨 I'm working on [My game template](https://github.com/Team-on/UnityGameTemplate), [Bronepoezd](https://github.com/Team-on/Bronepoezd), [Double Sided](https://github.com/Team-on/DoubleSided) and one more unannounced games
+- 🔨 I'm working on [My game template](https://github.com/Team-on/UnityGameTemplate)
 - 👯 I'm looking for indies to make games together
 - 💬 Talk to me about game dev, tools, unity, gamejams and other games related things
 - 🍯 Feel free to jam with me. I usually use Unity for my games, but eager to try other engines or roles for gamejams
