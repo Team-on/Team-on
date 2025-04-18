@@ -1,4 +1,4 @@
-### hello world!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Team-on.Team-on)
+### hello world!
 
 ![Header](Header/Header-Github%20and%20itchio%20copy.jpg)
 
@@ -42,13 +42,8 @@ In computing, I'm into game development, performance optimizations, tools/plugin
 <a href="https://twitter.com/team_on0"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-team__on0-blue?style=flat-square&logo=twitter"></a>
 <a href="https://t.me/Team0on"><img alt="Telegram" src="https://img.shields.io/badge/telegram-Team0on-blue?style=flat-square&logo=telegram"></a>
 <a href="https://www.linkedin.com/in/timofeii-solonchuk-29030a167/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Timofeii%20Solonchuk-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/Teamongames/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-team__on0-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.youtube.com/channel/UCIr2wSWnIb9JJ-MV66JqIJw/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-team__on0-blue?style=flat-square&logo=Youtube"></a>
-<a href="https://dtf.ru/u/70674-team-on"><img alt="DTF" src="https://img.shields.io/badge/DTF-team__on0-blue?style=flat-square&logo=dtf"></a>
-<a href="https://www.reddit.com/user/AdorableBite"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-team__on0-blue?style=flat-square&logo=reddit"></a>
-<a href="https://habr.com/ru/users/team-on/"><img alt="Habr" src="https://img.shields.io/badge/Habr-team__on0-blue?style=flat-square&logo=habr"></a>
 <a href="https://discord.gg/9P75AGFFrC"><img alt="discord" src="https://img.shields.io/badge/discord-team__on0-blue?style=flat-square&logo=discord"></a>
-<a href="https://www.twitch.tv/teamon0"><img alt="twitch" src="https://img.shields.io/badge/twitch-team__on0-blue?style=flat-square&logo=twitch"></a>
 </p>
 
 --------------
